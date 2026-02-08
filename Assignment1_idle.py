@@ -1,8 +1,4 @@
 ######################################################################
-#Script name: Assignment1.py
-#Title: Assignment 1 Code File
-#Description: Code file for SCP220 Week 1 Assignment. Re-write into
-#IDE of your choice
 #Author: Edgar Gonzalez
 #Date: August 28, 2022
 ######################################################################
@@ -46,6 +42,7 @@ else:
 
 # Pause screen here to wait for user to press enter to begin.
 null = input("Press Enter to terminate the program...")
+
 
 
 
