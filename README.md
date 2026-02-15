@@ -1,5 +1,6 @@
 # Introduction-program.py
-[![Python Package using Conda](https://github.com/dingonzo/introduction-program/actions/workflows/python-package-conda.yml/badge.svg)](https://github.com/dingonzo/introduction-program/actions/workflows/python-package-conda.yml) /n
+[![Python Package using Conda](https://github.com/dingonzo/introduction-program/actions/workflows/python-package-conda.yml/badge.svg)](https://github.com/dingonzo/introduction-program/actions/workflows/python-package-conda.yml) 
+
 This Python script is an interactive introductory program that demonstrates basic user input, conditional logic, and random number generation. Great for a beginner programmer to reference!
 
 # The Welcome & Setup
